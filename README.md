@@ -2,11 +2,11 @@
 
 ## Descripción
 
-Sitio web multi-página desarrollado con Bootstrap 5, que presenta al equipo **Los HTML** de Ingeniería Civil Informática USS. El proyecto cubre componentes de interfaz de usuario, arquitecturas de software e integración continua.
+Sitio web desarrollado con Bootstrap 5, que presenta al equipo **Los HTML** de Ingeniería Civil Informática USS. El proyecto cubre componentes de interfaz de usuario, arquitecturas de software e integración continua.
 
 ## 🌐 Demo en vivo
 
-👉 https://blasterlc.github.io/bootstrap-lab/
+https://blasterlc.github.io/bootstrap-lab/
 
 ## Integrantes
 
@@ -39,18 +39,6 @@ bootstrap-lab/
 | Badge | Contenido | equipo.html |
 | Formulario / Botón | Interacción | contacto.html |
 
-## Flujo de Integración Continua
-
-```
-main
- └── commits frecuentes por funcionalidad
-      ├── estructura base con Bootstrap
-      ├── reorganizacion en 3 páginas
-      ├── adicion de footer y sticky footer
-      ├── adicion de hero en index
-      └── adicion de badges en cards
-```
-
 Cada commit representa un avance concreto, manteniendo `main` siempre estable y funcional.
 
 ## Tecnologías
@@ -59,7 +47,3 @@ Cada commit representa un avance concreto, manteniendo `main` siempre estable y 
 - Bootstrap 5 (CDN)
 - CSS3
 
-## Ramo
-
-Aplicaciones y Tecnologías de la Web — Laboratorio Semana 04
-Universidad San Sebastián · 2026
